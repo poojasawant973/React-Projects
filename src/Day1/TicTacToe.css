@@ -71,17 +71,3 @@ body {
     width: 30px; 
 }
 
-@media screen and (max-width: 600px) {
-    .boxes {
-        height: 100px; 
-        width: 100px; 
-    }
-
-    .board {
-        max-width: 300px; 
-    }
-
-    .title {
-        font-size: 24px; 
-    }
-}
